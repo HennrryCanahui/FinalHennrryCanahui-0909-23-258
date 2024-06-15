@@ -18,3 +18,6 @@ public class Estudiante {
         return clasificacion;
     }
 }
+
+
+// utilizando arraylist escribe un metodo que gestione una lista de estudiantes cada estudiante tiene un nombre y na calificacion , el metodo debe permetir agregar estuantes a la lista y se tiene que repetir 5 veces para almecenar 5 estudantes
